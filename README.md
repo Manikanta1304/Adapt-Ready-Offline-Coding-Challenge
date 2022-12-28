@@ -1,7 +1,9 @@
 # Adapt-Ready-Offline-Coding-Challenge
 
 Files:
+
 Code: Adapt Ready Offline Coding Challenge.ipynb
+
 Input files: names.txt and hospitals.txt
 
 * The code for the selected challenge is provided in a Python notebook, along with the input files required to run the code. 
