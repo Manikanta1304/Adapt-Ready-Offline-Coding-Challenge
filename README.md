@@ -1,0 +1,1 @@
+# Adapt-Ready-Offline-Coding-Challenge
